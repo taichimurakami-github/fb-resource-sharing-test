@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "multiple-pj-hosting-test"
+  },
+  "targets": {
+    "multiple-pj-hosting-test": {
+      "hosting": {
+        "app02": [
+          "multiple-pj-hosting-test-app02"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
